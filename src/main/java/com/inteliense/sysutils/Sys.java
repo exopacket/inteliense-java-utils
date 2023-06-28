@@ -8,7 +8,7 @@ import java.net.URISyntaxException;
 
 public class Sys {
 
-    public class Exec {
+    public static class Exec {
 
         public static void noOut(String cmd) throws IOException {
 

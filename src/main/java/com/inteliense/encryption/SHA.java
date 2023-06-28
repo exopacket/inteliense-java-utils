@@ -5,6 +5,7 @@ import javax.crypto.spec.SecretKeySpec;
 import java.math.BigInteger;
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
+import com.inteliense.datautils.Hex;
 
 public class SHA {
 
